@@ -84,7 +84,7 @@ python main.py --regions us-east-1 --regions us-west-2
 
 **Zombie Hunter** is a lightweight, open-source tool for quick tactical cleanups. 
 
-For comprehensive, strategic cloud cost intelligence, check out **[CloudWise](https://cloudwise.example.com)**. CloudWise provides:
+For comprehensive, strategic cloud cost intelligence, check out **[CloudWise](https://cloudcostwise.io)**. CloudWise provides:
 *   Multi-account cost anomaly detection.
 *   Deep architectural insights.
 *   Automated consultant-grade reporting.
